@@ -37,6 +37,7 @@ I'm open to collaboration in joint research, course development, and open-source
 - [Mathematical Model for Assessing the Performance Characteristics of Medical Information and Measuring Systems](https://cyberleninka.ru/article/n/matematicheskaya-model-dlya-otsenki-harakteristik-proizvoditelnosti-informatsionno-izmeritelnyh-sistem-meditsinskogo-naznacheniya)
 - [Optimization of IT-Project Management Processes Using Machine Learning Methods](https://cyberleninka.ru/article/n/optimizatsiya-protsessov-upravleniya-it-proektami-s-ispolzovaniem-metodov-mashinnogo-obucheniya)
 - [Graph Theory Method for Optimizing IT Project Time](https://cyberleninka.ru/article/n/metod-teorii-grafov-pri-optimizatsii-vremeni-vypolneniya-it-proektov)
+- [Experimental Studies of Fiber-Optic Systems for Measuring the Velocity of Liquid Flows]([https://cyberleninka.ru/article/n/metod-teorii-grafov-pri-optimizatsii-vremeni-vypolneniya-it-proektov](https://cyberleninka.ru/article/n/eksperimentalnye-issledovaniya-volokonno-opticheskih-sistem-izmereniya-skorosti-zhidkostnyh-potokov))
 
 <hr></hr>
 
